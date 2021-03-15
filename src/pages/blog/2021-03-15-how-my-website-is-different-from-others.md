@@ -6,6 +6,8 @@ description: A Dive into differences and similarities between my website and
   other competitors.
 featuredpost: true
 featuredimage: /img/screen-shot-2021-03-16-at-10.27.15-am.png
+tags:
+  - research
 ---
 #### The Problem With Sites Like Hello Fresh And How My Site Works Differently.
 
