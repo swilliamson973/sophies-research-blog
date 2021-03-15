@@ -4,7 +4,7 @@ title: How My Website Is Different From Others
 date: 2021-03-15T21:26:58.721Z
 description: A Dive into differences and similarities between my website and
   other competitors.
-featuredpost: false
+featuredpost: true
 featuredimage: /img/screen-shot-2021-03-16-at-10.27.15-am.png
 ---
 #### The Problem With Sites Like Hello Fresh And How My Site Works Differently.
