@@ -6,11 +6,21 @@ description: in the Blog, Home and About Page
 featuredpost: true
 featuredimage: /img/screen-shot-2021-04-08-at-2.57.08-pm.png
 ---
+After my presentation i got this feedback about my website
+
+\-Change header colour
+
+\- Add White spacing to let the page breathe
+
+\- header line not really needed
+
+
+
+
+
 I took out the top and bottom featurette dividers, as well as adding more padding on top and below the photos and headers to all the pages
 
 In the About page i added a "call to action button"
-
-
 
 Blog Page Below
 
