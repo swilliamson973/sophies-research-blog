@@ -38,6 +38,18 @@ Home Page Below
 
 ![](/img/screen-shot-2021-04-08-at-3.07.52-pm.png)
 
+Home Page Below - Here i changed the background photo of the feature image and i also added background colour to the title to make it easier to read, as well as making the line weight of the sub heading thicker.
+
+![](/img/screen-shot-2021-04-08-at-4.01.06-pm.png)
+
+Home Page- Here i changed the outline of the button on the orange card to black so it matched the text colour
+
+![](/img/screen-shot-2021-04-08-at-4.01.09-pm.png)
+
+Home page- I changed the hover colour to black.
+
+![](/img/screen-shot-2021-04-08-at-4.05.11-pm.png)
+
 About Page Below
 
 ![](/img/screen-shot-2021-04-08-at-3.21.45-pm.png)
