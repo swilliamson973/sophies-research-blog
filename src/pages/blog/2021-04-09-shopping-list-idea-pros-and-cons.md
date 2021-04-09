@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: Shopping List Idea, Pros and Cons
-date: 2021-03-04T23:15:00.000Z
+date: 2021-04-09T01:01:57.133Z
 description: Why did i not include it in my final website
 featuredpost: true
 featuredimage: /img/screen-shot-2021-04-07-at-9.28.57-pm.png
